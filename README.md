@@ -9,7 +9,7 @@ Call me   ★ W O G G E R !!!.
 
 </p>
 
-<p align='center'>Talk me through @ san.x77 or over on <a href="https://wa.me/+919895485344">WhatsApp</a>.</p>
-<a href="https://instagram.com/san.x77">Instagram</a>.</p>
+<p align='center'>Talk me through <a href="https://instagram.com/san.77x">INSTAGRAM</a>.</p> or over on <a href="https://wa.me/+919895485344">WHATSAPP</a>.</p>
+
 
 <h1 align='center'><i>Stay awesome!</i></h1>
