@@ -1,11 +1,11 @@
 
 [![Social banner for san-x77](https://i.imgur.com/Edztk0X.jpeg)](https://i.imgur.com/Edztk0X.jpeg)
 
-<h1 align='center'> Hi AWESOME! :wave:</h1>
+<h1 align='center'> Hi BRUDA! :wave:</h1>
 
 <p align='center'>
 
-<h1 align > Call me            ★ W O G G E R !!! </h1>
+<h1 align > itz me             ★ W O G G E R !!! </h1>
 
   
 
