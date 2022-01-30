@@ -6,6 +6,7 @@
 <p align='center'>
 
 <h1 align > itz me             ★ W O G G E R !!! </h1>
+[ediiter?,programmer?,creater?]
 
   
 
