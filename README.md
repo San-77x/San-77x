@@ -22,7 +22,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=San-77x&icon=2&color=10)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=San-77x&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
