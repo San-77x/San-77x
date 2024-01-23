@@ -15,7 +15,7 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
  
-[![Social banner for san-x77](https://i.imgur.com/Edztk0X.jpeg)](https://i.imgur.com/Edztk0X.jpeg)
+<!---[![Social banner for san-x77](https://i.imgur.com/Edztk0X.jpeg)](https://i.imgur.com/Edztk0X.jpeg) -->
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
