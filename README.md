@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h3 align="center">A simple fullstack developer.</h3>
 <p align="center"> 
 <i align="center">:unicorn: Javascript whisperer by day, :art: unicorn doodler by night - wields mighty :sparkles: React spells :magic_wand: to sling :boom: code into submission while dreaming up next avant-garde 🖼️ masterpiece.</i></p>
