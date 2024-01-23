@@ -1,3 +1,10 @@
+<h3 align="center">A simple fullstack developer.</h3>
+<p align="center"> 
+<i align="center">:unicorn: Javascript whisperer by day, :art: unicorn doodler by night - wields mighty :sparkles: React spells :magic_wand: to sling :boom: code into submission while dreaming up next avant-garde 🖼️ masterpiece.</i></p>
+
+
+![](https://komarev.com/ghpvc/?username=San-77x&color=green&style=flat&label=PROFILE+VIEWS&base=100)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/san.77x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saneenmecheri) 
