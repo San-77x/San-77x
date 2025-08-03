@@ -83,16 +83,18 @@ const saneen = {
   </a>
 </div>
 
-## 📈 Contribution Activity
-
+## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=San-77x&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 🎵 Coding Vibes
-
+## 🎵 Coding Playlist
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=9a6wln50tc2acbwy6veke02qs&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9a6wln50tc2acbwy6veke02qs)
+
+*🎧 Currently vibing to: Lo-fi Hip Hop & Synthwave*
+
 </div>
 
 ## 🌐 Let's Connect!
