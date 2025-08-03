@@ -1,132 +1,117 @@
-# Hi there, I'm Saneen! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=San-77x&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/San-77x?style=for-the-badge&color=00d9ff&labelColor=1c1c1c" alt="Followers" />
+# Muhammed Saneen
+
+### Frontend Developer & React Specialist
+
+*Crafting exceptional digital experiences with modern web technologies*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saneenmecheri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/san.77x)
+[![Profile Views](https://komarev.com/ghpvc/?username=San-77x&color=0A66C2&style=flat&label=Profile+Views)](https://github.com/San-77x)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```typescript
-const saneen = {
-  location: "Kerala, India 🇮🇳",
-  currentFocus: "Frontend Development & UI/UX",
-  dayJob: "Crafting seamless user experiences",
-  nightMode: "Exploring cutting-edge technologies",
-  philosophy: "Code is poetry, design is art",
-  currentlyLearning: ["Advanced React Patterns", "Three.js", "WebGL"],
-  askMeAbout: ["React", "JavaScript", "Frontend Architecture", "UI/UX Design"],
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+```javascript
+const developer = {
+    name: "Saneen Mecheri",
+    location: "Kerala, India 🇮🇳",
+    role: "Frontend Developer",
+    specialization: "React & Modern Web Development",
+    currentFocus: ["Advanced React Patterns", "Performance Optimization", "UI/UX"],
+    workingOn: "Building scalable web applications",
+    collaborate: "Open source projects & innovative web solutions",
+    motto: "Clean code, better user experiences"
 };
 ```
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🎨 Frontend Magic
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🎯 Styling & Design
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Cloud & Deployment
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=San-77x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-77x&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=San-77x&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=San-77x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/San-77x/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/San-77x/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 🎵 Coding Playlist
-<div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9a6wln50tc2acbwy6veke02qs)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=San-77x&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
 
-*🎧 Currently vibing to: Lo-fi Hip Hop & Synthwave*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-77x&layout=compact&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
 
 </div>
-
-## 🌐 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saneenmecheri)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/san.77x)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=San-77x&theme=react&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://github.com/San-77x)
 
 </div>
 
-## 💭 Daily Dev Quote
+## 🎯 Featured Projects
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-name-1&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/San-77x/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-name-2&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/San-77x/project-name-2)
+
 </div>
 
-## 🐍 Contribution Snake
+## 💼 What I Do
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/San-77x/San-77x/output/snake.svg" alt="Snake animation" />
-</div>
+- **🎨 Frontend Development**: Building responsive and interactive user interfaces
+- **⚡ Performance Optimization**: Creating fast, efficient web applications
+- **🔧 Problem Solving**: Turning complex requirements into elegant solutions
+- **📱 Responsive Design**: Ensuring seamless experiences across all devices
+- **🤝 Collaboration**: Working with teams to deliver quality products
+
+## 🌟 Current Goals
+
+- 🔭 Working on advanced React applications with modern architecture
+- 🌱 Learning Three.js and WebGL for interactive web experiences
+- 👯 Looking to collaborate on innovative frontend projects
+- 💬 Ask me about React, JavaScript, and frontend best practices
+- 📫 Reach me at: **saneenmecheri@gmail.com**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
-</div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/San-77x">San-77x</a> with ❤️</i>
+### 💭 Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+---
+
+**Thanks for visiting my profile! Let's connect and build something amazing together** 🚀
+
+*⭐ Star some repositories if you find them interesting!*
+
 </div>
