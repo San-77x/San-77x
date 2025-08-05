@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Muhammed Saneen
 
@@ -12,26 +12,9 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```javascript
-const developer = {
-    name: "Saneen Mecheri",
-    location: "Kerala, India 🇮🇳",
-    role: "Frontend Developer",
-    specialization: "React & Modern Web Development",
-    currentFocus: ["Advanced React Patterns", "Performance Optimization", "UI/UX"],
-    workingOn: "Building scalable web applications",
-    collaborate: "Open source projects & innovative web solutions",
-    motto: "Clean code, better user experiences"
-};
-```
-
 ## 🛠️ Technical Skills
 
-<div align="center">
+<div>
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,30 +43,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=San-77x&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-77x&layout=compact&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=San-77x&theme=react&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://github.com/San-77x)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-name-1&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/San-77x/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San-77x&repo=project-name-2&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/San-77x/project-name-2)
-
-</div>
 
 ## 💼 What I Do
 
@@ -103,15 +62,11 @@ const developer = {
 
 ---
 
-<div align="center">
+<div>
 
-### 💭 Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
-
----
 
 **Thanks for visiting my profile! Let's connect and build something amazing together** 🚀
 
-*⭐ Star some repositories if you find them interesting!*
+*⭐ Star some repositories if you find them interesting! [fun fact: you can't find one, good ones are private.] *
 
 </div>
