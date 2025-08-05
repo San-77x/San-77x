@@ -2,7 +2,7 @@
 
 # Muhammed Saneen
 
-### Frontend Developer & React Specialist
+### Developer - React, Next.js, React Native
 
 *Crafting exceptional digital experiences with modern web technologies*
 
