@@ -1,7 +1,6 @@
 <div>
 
 # MUHAMMED SANEEN M
-
 ### Developer - React, Next.js, React Native
 
 *Crafting exceptional digital experiences with modern web technologies*
