@@ -1,6 +1,6 @@
 <div>
   
-# MUHAMMED SANEEN M
+# MUHAMMED SANEEN. M
 
   
 ### Developer - React, Next.js, React Native
