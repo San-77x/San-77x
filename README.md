@@ -5,7 +5,7 @@
   
 ### Developer - React, Next.js, React Native
 
-*Crafting exceptional digital experiences with modern web technologies*
+*Crafting exceptional digital experiences with modern web technologies...*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saneenmecheri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/san.77x)
